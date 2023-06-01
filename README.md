@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Documentation
+# Credit Card Fraud Detection
 
 ## Introduction
 Credit card fraud is a significant concern for credit card companies and customers alike. Detecting fraudulent transactions is crucial to prevent customers from being charged for unauthorized purchases. In this documentation, we will explore a dataset containing credit card transactions made by European cardholders in September 2013. The dataset is highly unbalanced, with a small percentage of transactions being fraudulent. The goal is to develop a model that can accurately identify fraudulent transactions based on the available features.
